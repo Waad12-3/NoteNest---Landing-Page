@@ -24,4 +24,4 @@ A clear and responsive landing page built using HTML and CSS.
 
   ## 🙋‍♀️ Author
   Waad -- Aspiring Full-Stack Devloper & Data Analyst
-  [LinkedIn](https://www.linkedin.com/in/YOUR-NAME) • [GitHub](https://github.com/YOUR-USERNAME)
+  [LinkedIn](https://www.linkedin.com/in/Waad Al-Homaidi) • [GitHub](https://github.com/Waad12-3)
